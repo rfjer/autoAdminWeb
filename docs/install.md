@@ -35,7 +35,7 @@ git clone https://github.com/rfjer/autoAdminWeb.git
 
 ```
 cd autoAdminWeb
-npm install -registry=https://registry.npm.taobao.org
+npm install --registry=https://registry.npm.taobao.org
 ```
 
 > npm install 这步可能会出错， `WARN`可以直接忽略，如果出现`ERR` ， 大家可以截图发群里，寻求帮助
